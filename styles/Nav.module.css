@@ -1,0 +1,30 @@
+.nav {
+  display: flex;
+  border-bottom: 1px solid rgba(206, 206, 206, 0.384);
+  padding: 1rem;
+  color: azure;
+}
+.icons__container {
+  flex: 1;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: xx-large;
+}
+
+.icons {
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.orange:hover {
+  color: #ff7c22;
+}
+.pink:hover {
+  color: #fe5f9c;
+}
+.blue:hover {
+  color: #616aff;
+}
+.purple:hover {
+  color: #a77cff;
+}
